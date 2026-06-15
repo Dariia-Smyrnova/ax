@@ -1,29 +1,29 @@
 {
-  "compiled_at": "2026-06-12T08:14:49.510Z",
+  "compiled_at": "2026-06-15T05:00:00.321Z",
   "window_days": 30,
   "boards": {
     "tokens": [
       {
         "login": "Necmttn",
-        "value": 19473486824
+        "value": 20229144214
       }
     ],
     "sessions": [
       {
         "login": "Necmttn",
-        "value": 2005
+        "value": 1884
       }
     ],
     "streak": [
       {
         "login": "Necmttn",
-        "value": 6
+        "value": 1
       }
     ],
     "cost": [
       {
         "login": "Necmttn",
-        "value": 22648.173916399996
+        "value": 21010.170889949994
       }
     ]
   }
